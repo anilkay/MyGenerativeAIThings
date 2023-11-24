@@ -1,1 +1,1 @@
-# MyGenerativeAIThinks
+# MyGenerativeAIThings
